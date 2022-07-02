@@ -4,7 +4,13 @@ Hi 👋 My name is marcos vallejo
 Web/Crypto Developer
 --------------------
 
-coding for the last 6 years involved in crypto since 2017 interested in learning more react/solidity NFT creator: Non Fungible Turtles
+coding for the last 6 years 
+<br>
+involved in crypto since 2017 
+<br>
+interested in learning more react/solidity 
+<br>
+NFT creator: Non Fungible Turtles
 
 * 🌍  I'm based in Conneticut
 * ✉️  You can contact me at [thisismarcos@gmail.com](mailto:thisismarcos@gmail.com)
