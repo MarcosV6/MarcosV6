@@ -11,6 +11,10 @@ involved in crypto since 2017
 interested in learning more react/solidity 
 <br>
 NFT creator: Non Fungible Turtles
+<br>
+graphic designer 
+<br>
+contact for custom logos
 
 * 🌍  I'm based in Conneticut
 * ✉️  You can contact me at [thisismarcos@gmail.com](mailto:thisismarcos@gmail.com)
