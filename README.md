@@ -46,14 +46,16 @@
 
 ## Tech Stack
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/React%20Native-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" />
 </p>
 
 ### Current Interests
@@ -68,12 +70,12 @@
 
 ## Connect
 
-<p align="left">
-  <a href="https://github.com/MarcosV6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/marcosv6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://twitter.com/TheRealMarcosV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/therealmarcosv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.youtube.com/c/marcosvallejo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<p>
+  <a href="https://github.com/MarcosV6"><img src="https://img.shields.io/badge/GitHub-MarcosV6-111827?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marcosv6/"><img src="https://img.shields.io/badge/LinkedIn-marcosv6-111827?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://twitter.com/TheRealMarcosV"><img src="https://img.shields.io/badge/X-@TheRealMarcosV-111827?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/therealmarcosv"><img src="https://img.shields.io/badge/Instagram-@therealmarcosv-111827?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://www.youtube.com/c/marcosvallejo"><img src="https://img.shields.io/badge/YouTube-marcosvallejo-111827?style=flat-square&logo=youtube&logoColor=FF0000" /></a>
 </p>
 
 ---
