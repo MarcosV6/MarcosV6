@@ -33,14 +33,8 @@
 - **[codemaxxing](https://github.com/MarcosV6/codemaxxing)**  
   Open-source terminal coding agent. Connect any LLM, code anywhere.
 
-- **[hearth](https://github.com/MarcosV6/hearth)**  
-  Consumer-friendly desktop app for OpenClaw — your personal AI assistant.
-
 - **[openclaw-dashboard](https://github.com/MarcosV6/openclaw-dashboard)**  
   Self-hosted dashboard for monitoring usage, chats, tasks, and AI agent workflows.
-
-- **[fitgo](https://github.com/MarcosV6/fitgo)**  
-  AI-powered fitness app built with React Native + Expo.
 
 ---
 
