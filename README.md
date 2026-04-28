@@ -1,7 +1,7 @@
 Hi 👋 My name is marcos vallejo
 ===============================
 
-Web/Crypto Developer
+Web/App Developer
 --------------------
 
 coding for the last 6 years 
